@@ -1,0 +1,10 @@
+Question text 1: How do you think Marissa Meyer is doing running Yahoo?
+Question text 2: What strategies do you think Yahoo is getting right?
+Question text 3: How do you feel about the Alibaba purchase?
+Question text 4: What do you think is the future of search-based advertising?
+Question text 5: What do you think about the future success of Yahoo?
+Question text 6: How do you like working for Yahoo?
+Question text 7: What would you change about working for Yahoo?
+Question text 8: What would force you to leave Yahoo?
+Question text 9: What do you think Yahoo should focus on next?
+Question text 10: Where should Yahoo build its new headquarters?

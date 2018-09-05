@@ -1,5 +1,4 @@
 import requests
-# import compute.users as user_input
 from controller.messages import calculate_qid
 
 votes = requests.get('http://localhost:8080/votes').json()

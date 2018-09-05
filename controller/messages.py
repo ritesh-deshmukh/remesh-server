@@ -1,6 +1,7 @@
 import requests
 from controller.questions import questions_perId
 
+message_file = open('messages_data.txt','w')
 messages = requests.get('http://localhost:8080/messages').json()
 questions = requests.get('http://localhost:8080/questions').json()
 
@@ -15,6 +16,9 @@ def calculate_qid(filtered_message_id):
             print(f"User id: {messages[i]['creatorId']},\n"
                   f"Answered to question: {questions[int(messages[i]['questionId'])-1]['text']}\n"
                   f"With Message text: {messages[i]['text']},\n")
+            message_file.write((f"User id: {messages[i]['creatorId']},\n"
+                  f"Answered to question: {questions[int(messages[i]['questionId'])-1]['text']}\n"
+                  f"With Message text: {messages[i]['text']},\n"))
 
     print("\n")
     questions_perId(filtered_question_id)

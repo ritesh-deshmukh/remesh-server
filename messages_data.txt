@@ -1,0 +1,141 @@
+User id: 209,
+Answered to question: How do you think Marissa Meyer is doing running Yahoo?
+With Message text: She's doing a great job!,
+User id: 401,
+Answered to question: How do you think Marissa Meyer is doing running Yahoo?
+With Message text: I'm happy with how she's been doing,
+User id: 437,
+Answered to question: How do you think Marissa Meyer is doing running Yahoo?
+With Message text: Fine I guess, I don't really notice.,
+User id: 568,
+Answered to question: How do you think Marissa Meyer is doing running Yahoo?
+With Message text: Meh,
+User id: 881,
+Answered to question: How do you think Marissa Meyer is doing running Yahoo?
+With Message text: I'm not sure she has a big-picture vision for Yahoo.,
+User id: 370,
+Answered to question: What strategies do you think Yahoo is getting right?
+With Message text: Ads,
+User id: 900,
+Answered to question: What strategies do you think Yahoo is getting right?
+With Message text: Mobile is good,
+User id: 454,
+Answered to question: What strategies do you think Yahoo is getting right?
+With Message text: Mail is one of our integral products,
+User id: 661,
+Answered to question: What strategies do you think Yahoo is getting right?
+With Message text: Nothing,
+User id: 877,
+Answered to question: How do you feel about the Alibaba purchase?
+With Message text: Don't care,
+User id: 814,
+Answered to question: How do you feel about the Alibaba purchase?
+With Message text: Fine,
+User id: 941,
+Answered to question: How do you feel about the Alibaba purchase?
+With Message text: Good.,
+User id: 668,
+Answered to question: How do you feel about the Alibaba purchase?
+With Message text: Awesome!,
+User id: 769,
+Answered to question: How do you feel about the Alibaba purchase?
+With Message text: Don't know.,
+User id: 716,
+Answered to question: What do you think is the future of search-based advertising?
+With Message text: It's going to be the norm for a while,
+User id: 74,
+Answered to question: What do you think is the future of search-based advertising?
+With Message text: The end is near!,
+User id: 678,
+Answered to question: What do you think is the future of search-based advertising?
+With Message text: Not sure.,
+User id: 886,
+Answered to question: What do you think is the future of search-based advertising?
+With Message text: I think it will become more integrated into our daily lives,
+User id: 359,
+Answered to question: What do you think is the future of search-based advertising?
+With Message text: Bad.,
+User id: 168,
+Answered to question: What do you think about the future success of Yahoo?
+With Message text: I think we'll be around for a long time,
+User id: 939,
+Answered to question: What do you think about the future success of Yahoo?
+With Message text: I have no idea,
+User id: 248,
+Answered to question: What do you think about the future success of Yahoo?
+With Message text: The market can change in an instant, we have no idea how long this will last.,
+User id: 8,
+Answered to question: What do you think about the future success of Yahoo?
+With Message text: I don't think things look very good for us.,
+User id: 256,
+Answered to question: How do you like working for Yahoo?
+With Message text: It's great,
+User id: 924,
+Answered to question: How do you like working for Yahoo?
+With Message text: Fine.,
+User id: 733,
+Answered to question: How do you like working for Yahoo?
+With Message text: I think we need to focus on employee retention.,
+User id: 845,
+Answered to question: How do you like working for Yahoo?
+With Message text: Love the benefits,
+User id: 664,
+Answered to question: How do you like working for Yahoo?
+With Message text: No comment,
+User id: 888,
+Answered to question: What would you change about working for Yahoo?
+With Message text: More beneifts.,
+User id: 6,
+Answered to question: What would you change about working for Yahoo?
+With Message text: We need to be paid competitively.,
+User id: 833,
+Answered to question: What would you change about working for Yahoo?
+With Message text: More transparency into what's going on at the higher levels.,
+User id: 310,
+Answered to question: What would you change about working for Yahoo?
+With Message text: Nothing, really.,
+User id: 86,
+Answered to question: What would you change about working for Yahoo?
+With Message text: I'd like to get involved in some big picture thinking.,
+User id: 867,
+Answered to question: What would force you to leave Yahoo?
+With Message text: No raise.,
+User id: 650,
+Answered to question: What would force you to leave Yahoo?
+With Message text: Major market change,
+User id: 779,
+Answered to question: What would force you to leave Yahoo?
+With Message text: Acquisition,
+User id: 517,
+Answered to question: What would force you to leave Yahoo?
+With Message text: Nothing!,
+User id: 715,
+Answered to question: What do you think Yahoo should focus on next?
+With Message text: More mobile apps,
+User id: 650,
+Answered to question: What do you think Yahoo should focus on next?
+With Message text: Let's make yahoo mail better,
+User id: 953,
+Answered to question: What do you think Yahoo should focus on next?
+With Message text: Hardware maybe? We could do a phone that would kill the iPhone!,
+User id: 202,
+Answered to question: What do you think Yahoo should focus on next?
+With Message text: Decrease outsources and focus on internal development!,
+User id: 278,
+Answered to question: What do you think Yahoo should focus on next?
+With Message text: No idea. That's not my job to figure out,
+User id: 315,
+Answered to question: Where should Yahoo build its new headquarters?
+With Message text: New York City!!,
+User id: 619,
+Answered to question: Where should Yahoo build its new headquarters?
+With Message text: Seattle?,
+User id: 952,
+Answered to question: Where should Yahoo build its new headquarters?
+With Message text: MARS,
+User id: 856,
+Answered to question: Where should Yahoo build its new headquarters?
+With Message text: The Moooon!,
+User id: 469,
+Answered to question: Where should Yahoo build its new headquarters?
+With Message text: colorado maybe?,

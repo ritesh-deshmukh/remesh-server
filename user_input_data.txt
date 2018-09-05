@@ -1,0 +1,38 @@
+Filter Remesh DB
+
+Enter user sex:
+Options: 1: 'M',
+		 2: 'F'
+Your choice: M
+
+Enter user age range:
+Options: 1: '18-24',
+		 2: '25-29',
+		 3: '30-39',
+		 4: '40-49',
+		 5: '50-59',
+		 6: '60-64',
+		 7: '65+'
+Your choice: 18-24
+
+Enter user income range:
+Options: 1: '<20,000',
+		 2: '20,000-30,000',
+		 3: '30,000-40,000',
+		 4: '40,000-50,000',
+		 5: '50,000-60,000',
+		 6: '60,000-70,000',
+		 7: '70,000-80,000',
+		 8: '80,000-90,000',
+		 9: '90,000-100,000',
+		 10: '100,000+',
+Your choice: <20,000
+
+Enter user sex:
+Options: 1: 'Urban',
+		 2: 'Suburban',
+		 3: 'Rural'
+Your choice: Urban
+
+Messages are included in messages_data.txt,
+Questions are included in questions_data.txt
