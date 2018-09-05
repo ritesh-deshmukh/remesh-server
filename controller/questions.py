@@ -1,10 +1,10 @@
 import requests
-# import compute.messages as user_input
-
 
 questions = requests.get('http://localhost:8080/questions').json()
 
+
 def questions_perId(filtered_question_id):
+    print("List of Questions:\n")
     count = 0
     for i in range(len(questions)):
         if questions[i]['id'] in filtered_question_id:

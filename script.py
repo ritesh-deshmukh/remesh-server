@@ -1,7 +1,6 @@
 from controller.users import calculate_uid
 
-
-print("Filter Remesh DB")
+print("Filter Remesh DB\n")
 
 # take user input for sex of the user
 print("Enter sex choice: F, M")
