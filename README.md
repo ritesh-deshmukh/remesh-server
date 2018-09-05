@@ -18,3 +18,11 @@
 	Enter parameters
 	Output will be displayed in the terminal
 	Files will be generated for the input and output
+
+<h2>End Points</h2>
+
+	http://localhost:8080/users
+	http://localhost:8080/messages
+	http://localhost:8080/questions
+	http://localhost:8080/votes
+	
