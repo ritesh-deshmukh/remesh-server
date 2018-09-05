@@ -1,6 +1,9 @@
 import requests
 
+# create file to write questions
 questions_file = open('questions_data.txt','w')
+
+# get questions
 questions = requests.get('http://localhost:8080/questions').json()
 
 

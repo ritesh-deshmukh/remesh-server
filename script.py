@@ -1,6 +1,8 @@
 from controller.users import calculate_uid
 
+# create file to write
 user_input_file = open('user_input_data.txt','w')
+
 print("Filter Remesh DB\n")
 user_input_file.write("Filter Remesh DB\n\n")
 # take user input for sex of the user
@@ -113,5 +115,5 @@ user_input_file.write(f"Your choice: {livEnv_input}\n\n")
 print("------------RESULT------------")
 user_input_file.write("Messages are included in messages_data.txt,\n"
                       "Questions are included in questions_data.txt")
-
+# pass to users.py
 calculate_uid(sex_input,age_input,income_input,livEnv_input)

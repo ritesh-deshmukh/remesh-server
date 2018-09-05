@@ -1,10 +1,14 @@
 import requests
 from controller.questions import questions_perId
 
+# create file to write messages output
 message_file = open('messages_data.txt','w')
+
+# get messages and questions
 messages = requests.get('http://localhost:8080/messages').json()
 questions = requests.get('http://localhost:8080/questions').json()
 
+# store question id for additional use in questions
 filtered_question_id = []
 
 
@@ -21,4 +25,5 @@ def calculate_qid(filtered_message_id):
                   f"With Message text: {messages[i]['text']},\n"))
 
     print("\n")
+    # pass to questions.py
     questions_perId(filtered_question_id)

@@ -1,8 +1,10 @@
 import requests
 from controller.votes import calculate_mid
 
+# get users
 users = requests.get('http://localhost:8080/users').json()
 
+# store filtered user id for additional use in votes
 filtered_user_id = []
 
 
@@ -15,6 +17,7 @@ def calculate_uid(sex_input,age_input,income_input,livEnv_input):
                         (users[i]['livingEnvironment'] == livEnv_input):
 
             filtered_user_id.append(users[i]['id'])
+    # pass to votes.py
     calculate_mid(filtered_user_id)
 
 # Tests
