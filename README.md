@@ -1,9 +1,9 @@
-<h1><b>Remesh DB Template</b></h1>
+<h1><b>Remesh Sessions DB Template</b></h1>
 <h2>Language</h2>
 
 	Python 3.6
     
-<h2>Get HTTP requests: run in terminal/command line</h2>
+<h2>Get HTTP requests run in terminal/command line</h2>
 
 	pip install requests - https://pypi.org/project/requests
 
